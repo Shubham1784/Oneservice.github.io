@@ -25,3 +25,4 @@
   </footer>
 </body>
 </html>
+theme: jekyll-theme-minimal
